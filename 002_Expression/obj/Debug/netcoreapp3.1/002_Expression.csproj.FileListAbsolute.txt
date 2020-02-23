@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\C# & GitHub\Expressions\002_Expression\bin\Debug\netcoreapp3.1\002_Expression.exe
+C:\Users\user\Desktop\C# & GitHub\Expressions\002_Expression\bin\Debug\netcoreapp3.1\002_Expression.deps.json
+C:\Users\user\Desktop\C# & GitHub\Expressions\002_Expression\bin\Debug\netcoreapp3.1\002_Expression.runtimeconfig.json
+C:\Users\user\Desktop\C# & GitHub\Expressions\002_Expression\bin\Debug\netcoreapp3.1\002_Expression.runtimeconfig.dev.json
+C:\Users\user\Desktop\C# & GitHub\Expressions\002_Expression\bin\Debug\netcoreapp3.1\002_Expression.dll
+C:\Users\user\Desktop\C# & GitHub\Expressions\002_Expression\bin\Debug\netcoreapp3.1\002_Expression.pdb
+C:\Users\user\Desktop\C# & GitHub\Expressions\002_Expression\obj\Debug\netcoreapp3.1\002_Expression.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C# & GitHub\Expressions\002_Expression\obj\Debug\netcoreapp3.1\002_Expression.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# & GitHub\Expressions\002_Expression\obj\Debug\netcoreapp3.1\002_Expression.AssemblyInfo.cs
+C:\Users\user\Desktop\C# & GitHub\Expressions\002_Expression\obj\Debug\netcoreapp3.1\002_Expression.dll
+C:\Users\user\Desktop\C# & GitHub\Expressions\002_Expression\obj\Debug\netcoreapp3.1\002_Expression.pdb
