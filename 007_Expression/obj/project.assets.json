@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\C# & GitHub\\Expressions\\001_Expressions\\006_Expression\\006_Expression.csproj",
-      "projectName": "006_Expression",
-      "projectPath": "C:\\Users\\user\\Desktop\\C# & GitHub\\Expressions\\001_Expressions\\006_Expression\\006_Expression.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\C# & GitHub\\Expressions\\007_Expression\\007_Expression.csproj",
+      "projectName": "007_Expression",
+      "projectPath": "C:\\Users\\user\\Desktop\\C# & GitHub\\Expressions\\007_Expression\\007_Expression.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\C# & GitHub\\Expressions\\001_Expressions\\006_Expression\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\C# & GitHub\\Expressions\\007_Expression\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
