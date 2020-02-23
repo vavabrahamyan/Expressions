@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006_Expression", "..\006_Ex
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "008_Expressions_Foo", "..\008_Expressions_Foo\008_Expressions_Foo.csproj", "{FCFDBCD7-3CE1-421A-B62A-609DC5A90E1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Expressions_Visior", "..\009_Expressions_Visior\009_Expressions_Visior.csproj", "{56AA6A2B-8E8E-4728-A328-42D52673CC82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "009_Expressions_Visior", "..\009_Expressions_Visior\009_Expressions_Visior.csproj", "{56AA6A2B-8E8E-4728-A328-42D52673CC82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_Expressions_", "..\010_Expressions_\010_Expressions_.csproj", "{AB3EA843-F44B-48E8-A9E2-6D60F39ECE02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "010_Expressions_", "..\010_Expressions_\010_Expressions_.csproj", "{AB3EA843-F44B-48E8-A9E2-6D60F39ECE02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_Expressions", "..\011_Expressions\011_Expressions.csproj", "{97A4795A-DF88-4679-B6F3-66CB064DEDB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{AB3EA843-F44B-48E8-A9E2-6D60F39ECE02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB3EA843-F44B-48E8-A9E2-6D60F39ECE02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB3EA843-F44B-48E8-A9E2-6D60F39ECE02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97A4795A-DF88-4679-B6F3-66CB064DEDB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A4795A-DF88-4679-B6F3-66CB064DEDB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A4795A-DF88-4679-B6F3-66CB064DEDB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A4795A-DF88-4679-B6F3-66CB064DEDB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
