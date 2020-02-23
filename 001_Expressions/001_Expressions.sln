@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "008_Expressions_Foo", "..\0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Expressions_Visior", "..\009_Expressions_Visior\009_Expressions_Visior.csproj", "{56AA6A2B-8E8E-4728-A328-42D52673CC82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_Expressions_", "..\010_Expressions_\010_Expressions_.csproj", "{AB3EA843-F44B-48E8-A9E2-6D60F39ECE02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{56AA6A2B-8E8E-4728-A328-42D52673CC82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56AA6A2B-8E8E-4728-A328-42D52673CC82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56AA6A2B-8E8E-4728-A328-42D52673CC82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB3EA843-F44B-48E8-A9E2-6D60F39ECE02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB3EA843-F44B-48E8-A9E2-6D60F39ECE02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB3EA843-F44B-48E8-A9E2-6D60F39ECE02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB3EA843-F44B-48E8-A9E2-6D60F39ECE02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
