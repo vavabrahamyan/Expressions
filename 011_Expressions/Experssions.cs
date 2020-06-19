@@ -19,8 +19,6 @@ namespace _011_Expressions
             var body = new ParameterReplacer(left.Parameters).Visit(mergeExp);
 
             return Expression.Lambda<T>(body, left.Parameters);
-            
-            
         }
     }
 }
